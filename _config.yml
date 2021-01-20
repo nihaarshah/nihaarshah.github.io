@@ -8,6 +8,8 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 
+BASE_PATH: nihaarshah.github.io/
+
 defaults:
   -
     scope:
@@ -49,7 +51,7 @@ projects:
 topics:
   - name: Resume
     web_url: https://nihaarshah.github.io/resume
-    image_url: <img src="{{nihaarshah.github.io}}/images/resume_logo.png" style="display: block; margin: auto;" />
+    image_url: <img src="https://nihaarshah.github.io/images/resume_logo.png" />
 
   - name: Web design
 
