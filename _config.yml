@@ -51,9 +51,10 @@ projects:
 topics:
   - name: Resume
     web_url: https://nihaarshah.github.io/resume
-    image_url: <img src="https://nihaarshah.github.io/images/resume_logo.png" />
 
-  - name: Web design
+
+  - name: Normalizing flows for Anomaly Detection
+    web_url: https://nihaarshah.github.io/Nflow_AD
 
   - name: Sass
     web_url: https://github.com/topics/sass
