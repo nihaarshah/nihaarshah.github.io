@@ -52,12 +52,28 @@ topics:
   - name: Resume
     web_url: https://nihaarshah.github.io/resume
 
-
   - name: Normalizing flows for Anomaly Detection
     web_url: https://nihaarshah.github.io/Nflow_AD
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Hierarchical Neural Time Series Decoding
+    web_url: https://nihaarshah.github.io/hierarchical_neuro
+
+  - name: Curiosity-driven exploration in Deep Reinforcement Learning for Robotics
+    web_url: https://nihaarshah.github.io/DeepRL_curiosity
+
+  - name: Survey on the theory of Causal Online Learning
+    web_url: https://nihaarshah.github.io/Theory_Online_Causal_learning
+
+  - name: Calibrate a Camera for Visual Odometry
+    web_url: https://nihaarshah.github.io/CalibrateCanera
+
+  - name: Deep learning with Radars for autonomous vehicles
+    web_url: https://nihaarshah.github.io/deep_radar
+
+  - name: Probabilistic Programming for Bayesian Demand Estimation of Bike Sharing
+    web_url: https://nihaarshah.github.io/prob_prog_demand
+
+  - name: Causal Minimal Interventions
+    web_url: https://nihaarshah.github.io/causal_interventions
 
 theme: jekyll-theme-cayman
