@@ -42,7 +42,7 @@ projects:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-#   twitter: your_username
+#   twitter: non_gaussian_ni
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
@@ -50,30 +50,30 @@ projects:
 
 topics:
   - name: Resume
-    web_url: https://nihaarshah.github.io/resume
+    web_url: https://nihaarshah.github.io/nihaar-resume-jan21.pdf
 
   - name: Normalizing flows for Anomaly Detection
-    web_url: https://nihaarshah.github.io/Nflow_AD
+    web_url: https://nihaarshah.github.io/project_pdfs/Unsupervised_Proj_Report.pdf
 
   - name: Hierarchical Neural Time Series Decoding
-    web_url: https://nihaarshah.github.io/hierarchical_neuro
+    web_url: https://nihaarshah.github.io/project_pdfs/nihaar_hierarchical_decoding_final.pdf
 
   - name: Curiosity-driven exploration in Deep Reinforcement Learning for Robotics
-    web_url: https://nihaarshah.github.io/DeepRL_curiosity
+    web_url: https://nihaarshah.github.io/project_pdfs/nihaar_curiosity_RL_project.pdf
 
   - name: Survey on the theory of Causal Online Learning
     web_url: https://nihaarshah.github.io/project_pdfs/ML_Theory_Project_Report.pdf
 
   - name: Calibrate a Camera for Visual Odometry
-    web_url: https://nihaarshah.github.io/CalibrateCamera
+    web_url: https://nihaarshah.github.io/project_pdfs/B1_report_Nihaar-Final.pdf
 
   - name: Deep learning with Radars for autonomous vehicles
-    web_url: https://nihaarshah.github.io/deep_radar
+    web_url: https://nihaarshah.github.io/project_pdfs/4yp-report.pdf
 
   - name: Probabilistic Programming for Bayesian Demand Estimation of Bike Sharing
-    web_url: https://nihaarshah.github.io/prob_prog_demand
+    web_url: https://nihaarshah.github.io/project_pdfs/Prob-Prog-final-notebook.pdf
 
   - name: Causal Minimal Interventions
-    web_url: https://nihaarshah.github.io/causal_interventions
+    web_url: https://nihaarshah.github.io/project_pdfs/CI_Project.pdf
 
 theme: jekyll-theme-cayman
