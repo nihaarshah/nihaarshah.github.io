@@ -51,31 +51,39 @@ projects:
 topics:
   - name: Resume
     web_url: https://nihaarshah.github.io/nihaar-resume-jan21.pdf
+    image_url: images/resume_logo.png
 
   - name: Normalizing flows for Anomaly Detection
     web_url: https://nihaarshah.github.io/project_pdfs/Unsupervised_Proj_Report.pdf
-    image_url: images/pp.png
+    image_url: images/flow_anomaly.png
 
 
   - name: Hierarchical Neural Time Series Decoding
     web_url: https://nihaarshah.github.io/project_pdfs/nihaar_hierarchical_decoding_final.pdf
+    image_url: images/hierarchical_decoding.png
 
   - name: Curiosity-driven exploration in Deep Reinforcement Learning for Robotics
     web_url: https://nihaarshah.github.io/project_pdfs/nihaar_curiosity_RL_project.pdf
+    image_url: images/RL_curiosity.png
 
   - name: Survey on the theory of Causal Online Learning
     web_url: https://nihaarshah.github.io/project_pdfs/ML_Theory_Project_Report.pdf
+    image_url: images/online_causal.png
 
   - name: Calibrate a Camera for Visual Odometry
     web_url: https://nihaarshah.github.io/project_pdfs/B1_report_Nihaar-Final.pdf
+    image_url: images/calibrate_cube.png
 
   - name: Deep learning with Radars for autonomous vehicles
     web_url: https://nihaarshah.github.io/project_pdfs/4yp-report.pdf
+    image_url: images/radar.png
 
   - name: Probabilistic Programming for Bayesian Demand Estimation of Bike Sharing
     web_url: https://nihaarshah.github.io/project_pdfs/Prob-Prog-final-notebook.pdf
+    image_url: images/pp.png
 
   - name: Causal Minimal Interventions
     web_url: https://nihaarshah.github.io/project_pdfs/CI_Project.pdf
+    image_url: images/causal_intervention.png
 
 theme: jekyll-theme-cayman
