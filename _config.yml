@@ -8,7 +8,7 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 
-BASE_PATH: nihaarshah.github.io/
+url: https://nihaarshah.github.io/
 
 defaults:
   -
@@ -54,6 +54,8 @@ topics:
 
   - name: Normalizing flows for Anomaly Detection
     web_url: https://nihaarshah.github.io/project_pdfs/Unsupervised_Proj_Report.pdf
+    image_url: images/pp.png
+
 
   - name: Hierarchical Neural Time Series Decoding
     web_url: https://nihaarshah.github.io/project_pdfs/nihaar_hierarchical_decoding_final.pdf
