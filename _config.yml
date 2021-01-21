@@ -57,7 +57,6 @@ topics:
     web_url: https://nihaarshah.github.io/project_pdfs/Unsupervised_Proj_Report.pdf
     image_url: images/flow_anomaly.png
 
-
   - name: Hierarchical Neural Time Series Decoding
     web_url: https://nihaarshah.github.io/project_pdfs/nihaar_hierarchical_decoding_final.pdf
     image_url: images/hierarchical_decoding.png
@@ -85,5 +84,17 @@ topics:
   - name: Causal Minimal Interventions
     web_url: https://nihaarshah.github.io/project_pdfs/CI_Project.pdf
     image_url: images/causal_intervention.png
+
+  - name: Cloud based beer catalog using AWS ECS, EC2, API Gateway
+    web_url: https://nihaarshah.github.io/project_pdfs/CloudProjectOverview.pdf
+    image_url: images/cloud_architecture.png
+
+  - name: Causal Inference Presentation - Pearl's Causal Hierarchy
+    web_url: https://nihaarshah.github.io/project_pdfs/CausalInferencePCH.pdf
+    image_url: images/PCH.png
+
+  - name: Saving the human brain connectome using Machine Vision
+    web_url: https://nihaarshah.github.io/project_pdfs/typos-3yp.pdf
+    image_url: images/mouse_brain.png
 
 theme: jekyll-theme-cayman
