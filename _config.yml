@@ -62,10 +62,10 @@ topics:
     web_url: https://nihaarshah.github.io/DeepRL_curiosity
 
   - name: Survey on the theory of Causal Online Learning
-    web_url: https://nihaarshah.github.io/Theory_Online_Causal_learning
+    web_url: https://nihaarshah.github.io/project_pdfs/ML_Theory_Project_Report.pdf
 
   - name: Calibrate a Camera for Visual Odometry
-    web_url: https://nihaarshah.github.io/CalibrateCanera
+    web_url: https://nihaarshah.github.io/CalibrateCamera
 
   - name: Deep learning with Radars for autonomous vehicles
     web_url: https://nihaarshah.github.io/deep_radar
